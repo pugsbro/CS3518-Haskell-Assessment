@@ -1,6 +1,5 @@
 --CS3518 Assessment
 --Name: Bradley Scott
---Student ID: 51661169
 --Email: b.scott.16@aberdeen.ac.uk
 
 
